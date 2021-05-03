@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Zvezda\Zvezda\Main.cpp(26,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Zvezda\Zvezda\Main.cpp(26,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Zvezda\Zvezda\Main.cpp(28,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Zvezda\Zvezda\Main.cpp(28,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Zvezda.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Zvezda\Debug\Zvezda.exe

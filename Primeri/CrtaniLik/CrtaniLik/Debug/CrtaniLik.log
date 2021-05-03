@@ -1,0 +1,14 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\CrtaniLik\Main.cpp(25,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\CrtaniLik\Main.cpp(25,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\CrtaniLik\Main.cpp(46,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\CrtaniLik\Main.cpp(46,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\CrtaniLik\Main.cpp(53,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\CrtaniLik\Main.cpp(57,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\CrtaniLik\Main.cpp(64,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\CrtaniLik\Main.cpp(65,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\CrtaniLik\Main.cpp(79,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\CrtaniLik\Main.cpp(82,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\CrtaniLik\Main.cpp(419,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\CrtaniLik\Main.cpp(419,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CrtaniLik.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\CrtaniLik\Debug\CrtaniLik.exe

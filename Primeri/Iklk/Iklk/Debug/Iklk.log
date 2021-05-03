@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Iklk\Iklk\Main.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Iklk\Iklk\Main.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Iklk\Iklk\Main.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Iklk\Iklk\Main.cpp(69,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Iklk\Iklk\Main.cpp(69,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Iklk\Iklk\Main.cpp(69,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Iklk\Iklk\Main.cpp(126,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Iklk\Iklk\Main.cpp(148,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Iklk\Iklk\Main.cpp(178,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Iklk\Iklk\Main.cpp(213,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Iklk\Iklk\Main.cpp(273,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Iklk.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Iklk\Debug\Iklk.exe

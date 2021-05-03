@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(34,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(34,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(35,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(35,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(36,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(36,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(37,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(37,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(63,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(63,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(64,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(64,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(65,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(65,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(66,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(66,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(76,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\nesto\Main.cpp(76,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  nesto.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\nesto\Debug\nesto.exe

@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe9drugiput\vezbe9drugiput\Main.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe9drugiput\vezbe9drugiput\Main.cpp(34,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe9drugiput\vezbe9drugiput\Main.cpp(34,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe9drugiput\vezbe9drugiput\Main.cpp(34,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe9drugiput\vezbe9drugiput\Main.cpp(82,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe9drugiput\vezbe9drugiput\Main.cpp(264,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  vezbe9drugiput.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe9drugiput\Debug\vezbe9drugiput.exe

@@ -1,0 +1,24 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(49,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(49,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(49,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(85,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(85,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(85,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(89,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(89,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(89,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(94,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(94,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(94,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(98,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(98,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(119,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(176,16): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(181,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(221,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Project1\Main.cpp(394,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Project1\Debug\Project1.exe

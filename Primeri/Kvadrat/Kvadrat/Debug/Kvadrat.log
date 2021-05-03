@@ -1,0 +1,15 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Vector4D.h(70,1): warning C4521: 'Vector4D': multiple copy constructors specified
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Matrix4x4.h(9,1): warning C4005: 'EPSILON': macro redefinition
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Vector4D.h(8): message : see previous definition of 'EPSILON'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Matrix4x4.h(127,1): warning C4521: 'Matrix4x4': multiple copy constructors specified
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Main.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Main.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Main.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Main.cpp(56,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Main.cpp(56,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Main.cpp(56,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Main.cpp(104,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Main.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Kvadrat\Main.cpp(143,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Kvadrat.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kvadrat\Debug\Kvadrat.exe

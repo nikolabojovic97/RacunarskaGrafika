@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\IscrtavanjeOblika\IscrtavanjeOblika\Main.cpp(29,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\IscrtavanjeOblika\IscrtavanjeOblika\Main.cpp(29,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  IscrtavanjeOblika.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\IscrtavanjeOblika\Debug\IscrtavanjeOblika.exe

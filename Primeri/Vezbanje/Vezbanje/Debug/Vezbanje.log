@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vezbanje\Vezbanje\Vector4D.h(67,1): warning C4521: 'Vector4D': multiple copy constructors specified
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vezbanje\Vezbanje\Matrix4x4.h(9,1): warning C4005: 'EPSILON': macro redefinition
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vezbanje\Vezbanje\Vector4D.h(8): message : see previous definition of 'EPSILON'
+  Vezbanje.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vezbanje\Debug\Vezbanje.exe

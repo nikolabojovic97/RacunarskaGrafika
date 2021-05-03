@@ -1,0 +1,45 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(52,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(52,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(52,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(89,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(98,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(108,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(118,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(127,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(136,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(179,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(196,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(196,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(196,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(197,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(197,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(206,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(220,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(224,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(229,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(254,84): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(254,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(254,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(255,84): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(255,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(255,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(258,84): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(258,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(258,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(259,84): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(259,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(259,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(262,84): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(262,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(262,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(263,84): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(263,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(263,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(325,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(329,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(365,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\vezbe10\Main.cpp(543,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  vezbe10.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\vezbe10\Debug\vezbe10.exe

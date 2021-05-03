@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vector3D\Vector3D\Main.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vector3D\Vector3D\Main.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vector3D\Vector3D\Main.cpp(41,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vector3D\Vector3D\Main.cpp(41,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vector3D\Vector3D\Main.cpp(41,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vector3D\Vector3D\Main.cpp(57,21): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vector3D\Vector3D\Main.cpp(80,21): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  Vector3D.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vector3D\Debug\Vector3D.exe

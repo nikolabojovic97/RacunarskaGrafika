@@ -1,0 +1,14 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Vetrenjaca\Main.cpp(39,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Vetrenjaca\Main.cpp(39,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Vetrenjaca\Main.cpp(44,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Vetrenjaca\Main.cpp(44,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Vetrenjaca\Main.cpp(50,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Vetrenjaca\Main.cpp(50,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Vetrenjaca\Main.cpp(51,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Vetrenjaca\Main.cpp(51,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Vetrenjaca\Main.cpp(52,103): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Vetrenjaca\Main.cpp(52,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Vetrenjaca\Main.cpp(53,103): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Vetrenjaca\Main.cpp(53,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Vetrenjaca.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Vetrenjaca\Debug\Vetrenjaca.exe

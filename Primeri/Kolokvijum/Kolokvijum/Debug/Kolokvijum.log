@@ -1,0 +1,44 @@
+﻿  Main.cpp
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Vector4D.h(68,1): warning C4521: 'Vector4D': multiple copy constructors specified
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Matrix4x4.h(9,1): warning C4005: 'EPSILON': macro redefinition
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Vector4D.h(8): message : see previous definition of 'EPSILON'
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Matrix4x4.h(126,1): warning C4521: 'Matrix4x4': multiple copy constructors specified
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(82,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(82,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(82,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(127,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(127,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(127,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(140,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(140,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(140,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(141,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(141,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(141,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(142,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(142,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(142,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(143,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(143,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(143,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(152,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(152,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(152,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(153,70): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(153,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(153,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(154,73): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(154,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(154,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(155,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(155,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(155,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(162,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(163,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(163,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(163,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(257,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Kolokvijum\Main.cpp(326,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Kolokvijum.vcxproj -> C:\Users\nikol\Desktop\Racunarska grafika\vezbanje\Kolokvijum\Debug\Kolokvijum.exe
